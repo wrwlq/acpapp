@@ -10,7 +10,7 @@ function Home() {
     <>
 
       <main>
-        <Box>JAMES</Box>
+        <Box>This is index page</Box>
       </main>
     </>
   );
