@@ -190,3 +190,4 @@ export default function AuthPage() {
    </Grid>
  );
 }
+ 
